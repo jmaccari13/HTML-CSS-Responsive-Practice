@@ -34,6 +34,7 @@ a{
 
 }
 
+
 .logo{
     width: 8%;
     display: flex;
@@ -97,5 +98,31 @@ h1{
 }
 .container .text{
     display: flex;
-    
+    justify-content: center;
+    padding: 4% 0;
+    text-align: center;
+
 }
+.container .text .div{
+    width: 40%;
+
+}
+
+.bgimg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom center;
+    height: 50vh;
+
+}
+.succlants{
+    background-image:url( )
+}
+
+
+
+
+
+
+
+
